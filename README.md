@@ -8,12 +8,12 @@ Download folder and drag the "php" folder to the root folder in USBwebserver. Af
 
 ### Login Page
 ![ss1](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/5433e188-3e66-413c-b7b0-61d5c5a88ca9)
-
+---
 ### Products Page
 ![ss2](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/6f641f50-f661-4053-aaa3-072e4386252c)
-
+---
 ### Account Page
 ![ss3](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/d1e28364-8f3d-49c1-9ec6-ee1563bfc987)
-
+---
 ### Basket Page
 ![ss4](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/717faa0c-7bc8-4f7f-b94c-d92ada3af82d)
