@@ -6,7 +6,8 @@ The password is encrypted, to login use the password **123**.
 ## How to run:
 Download folder and drag the "php" folder to the root folder in USBwebserver. After, you need to create a database in PHPMyAdmin and import db.sql to create all tables and entries.
 
----
+## Screenshots
+
 ### Login Page
 ![ss1](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/aa8f942a-d684-409d-ba94-51d78da7e1ae)
 
