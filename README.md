@@ -8,19 +8,16 @@ Download folder and drag the "php" folder to the root folder in USBwebserver. Af
 
 ---
 
-![ss1](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/7f3ba0c8-2b33-482c-a934-c248e2a96018)
-
-
----
-
-![ss2](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/7991c8ce-4a5b-447c-8b08-7ec050eec175)
-
+![ss1](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/aa8f942a-d684-409d-ba94-51d78da7e1ae)
 
 ---
 
-![ss3](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/8ad4c2b5-39c7-4d6d-8c90-9284c0d28567)
-
+![ss2](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/5c88eb0b-0fcb-4d18-bace-a7c7b55f11cc)
 
 ---
 
-![ss4](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/0c076599-5c04-4972-a7c4-0d2b5fc8b13b)
+![ss3](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/fedc55c7-6c94-4230-b15f-906aa65c7fcc)
+
+---
+
+![ss4](https://github.com/mt-hill/customer_purchasing_system/assets/138307546/440f53d0-1647-42c9-a9fe-b9ee72598360)
